@@ -9,7 +9,8 @@ ol li {
     font-family: 'Times New Roman', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
-    line-height:200%
+    line-height:200%;
+    border: 2px solid black
 }
 footer {
     padding-top: 3px;
